@@ -9,3 +9,4 @@ img[:,:,0] = 0  # Set the red channel to 0
 cv2.imshow("window",img)
 cv2.waitKey(0)
 
+
