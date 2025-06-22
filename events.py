@@ -14,10 +14,9 @@ cv2.setMouseCallback("window", draw)  # Set the mouse callback function to draw 
 img = np.zeros((512,512,3))
 
 while True:
+    cv2.imshow("window", img)
 
-  cv2.imshow("window", img)
+    if cv2.waitKey(1) & 0xFF == ord('x'):
+        break
 
-  if cv2.waitKey(0) & 0xFF == ord('x'):
-    break
-  
-  cv2.destroyAllWindows()
+cv2.destroyAllWindows()
