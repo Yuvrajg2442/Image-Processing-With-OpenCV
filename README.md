@@ -16,6 +16,19 @@ A companion repo for the Image Processing using OpenCV
 - Masking & Bitwise Ops  
 - Real‑Time Webcam Processing  
 
+## 📸 Example Outputs
+
+### Image Reading Example:
+![Image Reading](dragbox.png)
+<!-- Replace with your image path -->
+
+### Edge Detection Example:
+![Edge Detection](RedCircle.png)
+
+### Drawing Shapes Example:
+![Drawing Shapes](images/drawing_shapes.png)
+
+
 ## 🚀 Getting Started
 1. Clone this repo  
 2. Install dependencies: pip install opencv-python  
