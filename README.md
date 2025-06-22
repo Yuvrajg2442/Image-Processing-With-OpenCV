@@ -19,11 +19,10 @@ A companion repo for the Image Processing using OpenCV
 ## 📸 Example Outputs
 
 ### Image Reading Example:
-![Image Reading](dragbox.png)
-<!-- Replace with your image path -->
+<img src="dragbox.png" alt="Image Reading" width="300"/>
 
-### Edge Detection Example:
-![Edge Detection](RedCircle.png)
+### Image Reading Example:
+<img src="RedCircle.png" alt="Image Reading" width="300"/>
 
 ### Drawing Shapes Example:
 ![Drawing Shapes](images/drawing_shapes.png)
