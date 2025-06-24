@@ -24,9 +24,6 @@ A companion repo for the Image Processing using OpenCV
 ### Image Reading Example:
 <img src="RedCircle.png" alt="Image Reading" width="300"/>
 
-### Drawing Shapes Example:
-![Drawing Shapes](images/drawing_shapes.png)
-
 
 ## 🚀 Getting Started
 1. Clone this repo  
